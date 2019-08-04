@@ -1,0 +1,8 @@
+{
+  "body": "{\"content\":\"history\"}",
+  "requestContext": {
+    "identity": {
+      "cognitoIdentityId": "USER-SUB-1234"
+    }
+  }
+}
